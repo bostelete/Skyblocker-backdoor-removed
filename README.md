@@ -1,334 +1,215 @@
-<img height="150" src="https://hysky.de/skyblocker.png" alt="skyblocker"/>
+# backdoor removal status: :white_check_mark: safe 
 
-## Skyblocker
+- backdoor completely removed and now the software is clean to use.
+- updated readme to remove potential backdoor links
 
-[![modrinth statistic](https://img.shields.io/modrinth/dt/skyblocker-liap?color=00AF5C&label=Download&labelColor=cecece00AF5C&logo=modrinth)](https://modrinth.com/mod/skyblocker-liap)
-[![curseforge statistic](https://img.shields.io/curseforge/dt/936169?logo=curseforge&color=orange)](https://www.curseforge.com/minecraft/mc-mods/skyblocker)
-[![github statistic](https://img.shields.io/github/downloads/SkyblockerMod/skyblocker/total?labelColor=cecece&color=000000&label=Download&logo=github&logoColor=black)](https://github.com/SkyblockerMod/Skyblocker/releases/latest)
- \
-[![Discord](https://img.shields.io/discord/879732108745125969?logo=discord&labelColor=cecece&color=7289DA&label=)](https://discord.com/invite/aNNJHQykck)
+for more info check [the backdoor removal log](BACKDOOR_REMOVAL.log)
 
-Hypixel Skyblock Mod for Minecraft 1.21.5
+<img height="150" src="https://a-static.mlcdn.com.br/1500x1500/oculos-acrilico-meme-thug-life-turn-down-for-what-fabrica-geek/olistplus/opm8v0niqt01ck9b/1ee1ff43185d4040ae809f64c47f0b47.jpeg" alt="turn downfor what"/>
 
-Installation guide is [here](https://github.com/SkyblockerMod/Skyblocker/wiki/installation) or use our [Modpack](https://modrinth.com/modpack/skyblocker-modpack)
+## Skyblocker-backdoor-removed
+
+Hypixel Skyblock Mod for Minecraft 1.12.2
+
+Installation guide is not [here](https://google.com) or dont't use our [Modpack](https://youtube.com)
 ## Features
 
 <details open>
 <summary>Features</summary>
 
 ### Dungeon Features:
-- **Fancy Party Finder GUI**
-- **Secrets Waypoint Highlight:** Fully customizable
-- **Minimap & Score**
-- **Starred Mob Glow**
-- **Croesus Helper:**
-    - Highlight not opened chests
-    - Profit calculator
-- **Puzzle Solver:**
-    - *Three Weirdos*
-    - *Blaze*
-    - *Creeper Beams*
-    - *Quiz - Ouro the Omniscient*
-    - *Tic Tac Toe*
-    - *Waterboard* (one flow)
-    - *Silverfish*
-    - *Ice Fill*
-    - *Boulder*
-    - *Simon Says*
-    - *Lights On*
-    - *Teleport Maze*
+- **Ugly Party Finder GUI**
+- **Secrets Waypoint remover:** lean routes
+- **hotbar map & scoreboard score**
+- **Starred Mob invisibility effect**
+- **Croesus crasher:**
+    - Highlight no chests
+    - calculator (cant do division yet)
+- **Puzzle failer:**
+    - *one Weirdo*
+    - *cow*
+    - *Creeper explosion*
+    - *Quiz - How many of this tricks did you know?*
+    - * tico teco*
+    - *Whiteboard* (no drawing pen included)
+    - *slime*
+    - *lava fill*
+    - *big rock*
+    - *Simon denies*
+    - *Lights off*
+    - *Teleport straight line*
     - Terminal:
-        - *Order*
-        - *Coloured Items*
-        - *Item Name*
-- **Rare Drop Special Effects**
-- **Chest Profit Calculator**
-- **F3/M3 Fire Freeze Staff Timer**
-- **F3/M3 Guardian Health Display**
-- **F5/M5 Livid Color Highlight**
-- **F7/M7 Terminal/Device Waypoints/Highlight**
-- **Reparty:** Type /rp to reparty and enable auto-rejoin.
-- **AOTV & Pearl Secret Waypoints**
-- **Player Secrets Tracker**
-- **Wither & Blood Door Highlight**
-- **Resourcepack recoloring textures in dungeons**
-- **score title and sound**
-- **Prevent teammates glow during Livid**
-- **Block Incorrect Terminal Clicks**
-- **Hide Soulweaver Skulls**
-- **Dungeon Class-based player glow**
-- **Spirit Leap Overlay**
+        - *disorder*
+        - *gray items*
+        - *Item's ID*
+- **common Drop regular Effects**
+- **Calculator** (still cant do division yet)
+- **F1/M1 water fire /disguise Timer**
+- **F2/M2 creeper death Display**
+- **F3/M3 necron Color remover**
+- **F4/M4 Terminal/Device Waypoints/lowlight**
+- **party disbander:** Type /pd to dispand the party and enable auto-disband.
+- **AOTD & hand Secret remover**
+- **Player common knoledge deleter**
+- **dragon & outsiders Door Highlight**
+- **/texturepack, /texture in não ter porra nenhuma**
+- **score subtittle and caption**
+- **keep teammates glowing during Livid**
+- **allow Incorrect Terminal Clicks**
+- **show more Soulweaver Skulls**
+- **Dungeon ground-based player glow**
+- **Spirit Leap delay**
 
 ### Foraging Features:
-- **Waypoints to forest nodes**
-- **Lushlilac and Sea Lumies Highlighters**
-- **Forest temple puzzle solver**
+- **Waypoints to leave the park**
+- **Lushlilac and Sea Lumies deleter**
+- **Forest temple puzzle failer**
 
 ### Kuudra Features:
 - **Kuudra waypoints:**
-    - *Supplies*
-    - *Supply Piles*
-    - *Fuel Cells*
-    - *Safe Spots*
-    - *Pearl*
-- **No arrow poison warning**
-- **Low arrow poison warning**
-- **Kuudra glow**
-- **Kuudra danger warning**
+    - *leave the map*
+    - *leave the map*
+    - *there are 3 half beds at 0, 0, 0*
+    - *just like murder mystery*
+    - *turn down for what*
+- **yes arrow poison**
+- **high arrow warning**
+- **Kuudra hide**
+- **Kuudra dance**
 
 ### Crimson Isles:
-- **Dojo helper**
-- **Option to increase fog radius**
+- **Dojo failer**
+- **Option to decrease fog by 1 block**
 
 ### Item and Armor Customization:
-- *Item Renaming*
+- *Item deleting*
 - **Fancy Armor Customization GUI**
-    - *Custom Armor Dye Colors*
-    - *Custom Armor Trims*
-    - *Custom Animated Dyes*
+    - *vanilla Armor Dye Colors*
+    - *regular Armor Trims*
+    - *regular Dyes remover*
 
 ### Health and Status Bars:
 - **Bars:**
-    - *Health and absorption*
-    - *Mana*
-    - *Defense*
-    - *XP*
-    - *Speed*
-    - *Oxygen*
-- **Vanilla health/xp and fancy bar shown in parallel**
+    - *vanilla action bar health and mana*
+    - *mana from vanilla action bar*
+    - *2 health*
+    - *turn*
+    - *down for*
+    - *what*
+- **modded health/xp and fancy bar shown in series**
 
 ### Profile Viewer:
-- **Skills**
-- **Slayer**
-- **Catacombs**
+- **Skill issues**
+- **assasin**
+- **dungo**
 - **Container:**
-    - Inventory
-    - Enderchest
-    - Backpack
-    - Wardrobe
-    - Pets
-    - Accessory Bag
+    - backpack
+    - trapped chest
+    - pig's saddle slot
+    - closed
+    - animal
+    - fishign bag
+
 - **Collections**
 
 ### Dwarven Mines / Crystal Hollows / Glacite Mining:
 - **Dwarven Mines:**
     - Solver:
-        - Fetchur
-        - Puzzler
-    - Unbreakable carpet highlighter
+        - highlight the block you're looking at
+        - how to leave
+    - add more unbreakable carpets 
 - **Crystal Hollows:**
-    - Crystal Hollows Map:
-        - *Shows players location in Crystal Hollows*
-        - *Highlights important waypoints in Crystal Hollows*
+    - hub Map:
+        - *Shows nothing in Crystal Hollows*
+        - *dont highlight important stuff in Crystal Hollows*
     - Crystal Hollows Waypoints:
-        - *Shows waypoints for special locations*
-        - *Find locations in chat messages*
-        - *Share waypoints*
-    - Metal detector helper
-    - Auto-detect waypoint from chat for example when talking to king
-    - Nucleus waypoints
-    - Wishing compass helper
-    - Treasure Chest Highlighter
-    - Crystal Waypoints server-sided sharing via WebSocket
+        - *Shows waypoints for regular locations*
+        - *Find locations in world scanning messages*
+        - *dont Share waypoints*
+    - Metal detector worsener
+    - Auto-delete waypoint from chat for example when talking to king
+    - Nucleus moved 
+    - Wishing compass particle hider
+    - Treasure Chest relocker
+    - Crystal Waypoints client-sided hiding via a sock
 - **Glacite Tunnels:**
-    - *Cold Overlay*
-    - *Corpse Finder*
-    - *Corpse profit tracker*
-    - *Fossil Solver*
+    - *heat Overlay*
+    - *Corpse reporter*
+    - *Corpse police reporter*
+    - *Fossil crasher*
 - **Commission HUD:**
-    - *Provides information on Dwarven Mines / Crystal Hollows / Glacite Mining quests*
+    - *Provides no information on Dwarven Mines / Crystal Hollows / Glacite Mining quests*
 - **Powder HUD**
 - **Ordered Waypoints**
-    - Basic ordered waypoint commands
+    - no
 
 ### Rift Features:
-- **Mirrorverse Waypoints**
-- **Enigma soul waypoint**
-- **Blobbercysts Glow**
+- **auto leave the rift on join**
+- **auto leave the rift on join**
+- **auto leave**
 
 ### Spider's Den Features:
-- **Hidden Relic Helper**
+- **Hidde Relics**
 
 ### Slayer Helper:
 - **Vampire:**
-    - Effigy Waypoints
-    - Healing Melon Indicator
-    - Twinclaws Ice Indicator
-    - Steak Stake Indicator
+    - this slayer dosent exist
+    - this is fake news
+    - a hoax even
+    - you've been tricked
 - **Enderman:**
-    - Beacon Highlighting
-    - Yang Glyph Notification
-    - Nukekubi Head Highlighting
-    - Laser phase Timer
+    - Beacon jump boost effect
+    - idk i dotn speak chinese
+    - neither japansed
+    - hide own boss lazer
 - **Blaze Slayer:**
-    - Attunement highlighting
-    - Fire Pillar Countdown Notifiications
+    - automatically change to the wrong tuneament
+    - Fire Pillar block
 - **General:**
-    - Bossbars
-    - Slayer HUD
-    - Boss slain time
-    - Personal Best slain time
-    - Boss and MiniBoss spawn alert
-    - Mute Enderman sounds
-    - Slayer (Mini)Bosses Highlighting
-    - Glow Effect Slayer Mob Highlighting
+    - Boss captions
+    - Slayer in game
+    - Boss slain message
+    - comunity wide worst slain time
+    - owner and manager spawn alert
+    - increase Enderman sounds
+    - Slayer (Mini)macro 
+    - blindness Effect Slayer Mob 
 
 ### Garden Features:
-- **Farming HUD:**
-    - Counter
-    - Crops/min
-    - Coins/h
-    - Blocks/s
-    - Farming Level
-    - Farming XP/h
-    - Yaw and Pitch
-- **Visitor Helper:**
-    - Buy items that visitors require from bazaar by clicking the text
-    - Copy amount to clipboard
-- **Garden Plots Widget**
-- **Speed Presets (Rancher's Boots)**
-- **Disable title and chat messages for Melon/Pumpkin Dicer**
-- **Basic garden mouse locking feature (set mouse sensitivity to 0)**
-- **Pest Highlighter**
+- **added crops:**
+    - cactus
+    - sugarcane
+    - mushroom
+    - carrots
+    - wheat
+    - nether wart
+    - potatoes
+- **Visitor atrapalhador:**
+    - prevents Buying items that visitors require from bazaar by clicking the text
+    - Copy "i didnt get backdored thanks to bostelete tech" to clipboard
 
 ### Visual Enhancements:
-- **Smooth AOTE**
-- **Compact damage**
-- **Waypoints for commissions in dwarven mines and glacite tunnels**
-- **Fancy Tab HUD:** Fully configurable, allowing individual widgets to be freely placed on the main screen.
-- **1.8 Hitbox for Lever, Farmland and mushroom**
-- **Hide Status Effect Overlay**
-- **Personal Compactor/Deletor Preview**
-- **Hide Fake Players in Social Interactions Screen**
-- **Item Rarity Backgrounds:**
-    - Circle or Square
-- **Item Cooldown Display**
-- **Configure Fire-Overlay Height**
-- **Configure night vision strength**
+- **shit AOTE**
+- **enlarge damage**
+- **Waypoints for leaving the dwarven mines and hub**
+- **ugly Tab HUD:** Fully shit, not allowing individual widgets to be freely placed on the tab screen.
+- **1.5 Hitbox for Lever, Farmland**
+- **show Status Effect Overlay**
+- **Personal Deletor macro**
+- **add more Fake Players in Social Interactions Screen**
+- **Item common Backgrounds:**
+    - shape
+- **Item Cooldown guesser**
+- **maximum Fire-Overlay Height**
+- **remove night vision effect**
 - **End HUD Widget:**
     - Zealots:
-        - *Since last eye*
-        - *Total zealots kills*
-        - *Avg kills per eye*
+        - *prevents dropping eyes*
+        - **
+        - *summoning*
     - Endstone Protector:
-        - *stage*
-        - *Location*
-- **Ender Nodes Helper**
-- **Powder mining tracker**
-- **Special Effects for rare dye drops**
-- **Entity health bars**
-- **Fishing HUD**
-
-### User Interface Enhancements:
-- **Equipment in inventory**
-- **Search overlays for bz and ah**
-- **Slot Text:**
-    - *Attribute Shard Info Display*
-    - *Catacombs level*
-    - *Collection level*
-    - *Enchantment book level*
-    - *Minion level*
-    - *Pet level*
-    - *Potion level*
-    - *Prehistoric egg blocks walked*
-    - *Rancher's boots speed cap*
-    - *Skill level*
-    - *Skyblock level*
-    - *Essence Shop*
-    - *Your Essence*
-    - *Power Stone Guide*
-    - *Stats Tuning*
-    - *Collection*
-    - *Community Shop*
-    - *Bazaar*
-    - *Evolving Item*
-    - *New Year Cake*
-    - *Wardrobe slot*
-    - *Enchantment abbreviations*
-    - *Choose Pet*
-    - *Skyblock Guide*
-- **Drill Fuel and Pickonimbus 2000 in Item Durability Bar**
-- **Hotbar Slot Lock Keybind:** Select the hotbar slot you want to lock/unlock and press the lock button.
-- **Item Tooltip:** (Provides information on)
-    - *NPC Sell Prices*
-    - *Motes Prices*
-    - *Bazaar (average, lowest bin)*
-    - *Auction House*
-    - *Museum*
-    - *Exotic Armor Identifier*
-    - *Item Quality*
-    - *Accessories Helper*
-    - *Craft Cost*
-    - *Essence Shop Price*
-    - *True HEX display for dye items*
-    - *Estimated Item Value*
-    - *Skyblock ID*
-- **Quicknav:** (Fully customizeable) Fast navigation between pets, armor, enderchest, skill, collection, crafting, enchant, anvil, warp dungeon, and warp hub.
-- **Recipe Book:** Lists all Skyblock items in the vanilla recipe book, allowing you to see the recipe of the item.
-- **Backpack Preview:** After clicking your backpack or enderchest once, you can hover over the backpack or enderchest and hold Shift to preview its contents.
-- **New Year Cakes Helper**
-- **Fancy Crafting Table**
-- **Info Screen**
-- **Fancy Auctions Browser**
-- **Calendar Event Notifications**
-- **Sign calculator**
-- **CTRL/CMD + F to search inventory**
-- **legacy attribute background**
-
-### Barn Features:
-- **Barn Solver:**
-    - *Treasure Hunter*
-    - *Hungry Hiker*
-
-### Chat Features:
-- **Custom Chat Rules**
-- **Autocomplete**
-    - *Warp command*
-    - *Sack Item*
-    - *Viewstash*
-- **Hide Messages:**
-    - *Ability Cooldown*
-    - *Heal*
-    - *Aspect of the End (AOTE)*
-    - *Implosion*
-    - *Molten Wave*
-    - *`/show command`*
-    - *Teleport Pad Messages*
-    - *Sky Mall*
-
-### Miscellaneous Helpers:
-- **Experiments Solvers**
-- **Fishing:**
-    - Helper (Includes sound notifications)
-    - Fishing rod timer (change color after 20 seconds)
-    - Hide other rods
-    - Ingame fishing hook timer display
-- **Mythological Ritual Helper**
-    - Estimated Diana burrow pos
-- **Chocolate factory Helper**
-- **Jerry timer**
-- **Wardrobe helper based on hotbar keybinds**
-- **Carnival Helpers**
-- **Bits Helper**
-- **Salvage Helper**
-- **Math teacher helper**
-- **Raffle task highlighter**
-
-### Miscellaneous Features:
-- **[Roughly Enough Items (REI)](https://modrinth.com/mod/rei), [EMI](https://modrinth.com/mod/emi) and [JEI](https://modrinth.com/mod/jei/) Support**
-- **Item Protection**
-- **Discord Rich Presence:** Allows users to show their Piggy, Bits, or location, along with a custom message.
-- **Wiki Lookup:** Press F4 to open the wiki page about the held item.
-- **OptiFabric Compatibility**
-- **Waypoints API**
-- **Config Button in Skyblock Menu**
-- **Chest Value**
-- **Add useful tips in chat**
-- **Suppress badlion packet warnings**
-- **Remove screens when switching island**
-- **Skin transparency correction**
-- **Skyblock XP Messages**
-- **Share position and set waypoint**
+        - *warps out of lobby on tier 5*
+        - *its somewhere in the end*
 
 </details>
 
@@ -336,514 +217,33 @@ ___
 
 ## Commands
 
-|            command             |                                       option                                       | comment                                                                                                                                                                                                                                                                                   |
-|:------------------------------:|:----------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|          /skyblocker           |                                                                                    | opens info screen                                                                                                                                                                                                                                                                         |
-|       /skyblocker config       |                                                                                    | open config menu (modMenu not needed)                                                                                                                                                                                                                                                     |
-|      /skyblocker options       |                                                                                    | open config menu (modMenu not needed)                                                                                                                                                                                                                                                     |
-|        /skyblocker hud         |                       dwarven / dungeonmap / titleContainer                        | move dwarven, dungeonmap or titleContainer                                                                                                                                                                                                                                                |
-|     /skyblocker shortcuts      |                                                                                    | add/edit shortcuts                                                                                                                                                                                                                                                                        |
-|       /skyblocker custom       |                         renameItem /  armorTrim / dyeColor                         | Item and Armour customisation                                                                                                                                                                                                                                                             |
-|    /skyblocker protectItem     |                                                                                    | When an item is protected it's safe from: <br /> - Being dropped while holding it, regardless of the slot being locked <br /> - Being dropped from picking it up in your inventory then clicking outside the screen <br /> - Being dropped via hovering over it and pressing the drop key |
-| /skyblocker   dungeons secrets | addWaypoint \| addWaypointRelatively \[pos\] \[secretIndex\] \[category\] \[name\] |                                                                                                                                                                                                                                                                                           |
-| /skyblocker   dungeons secrets |                 removeWaypoint \| removeWaypointRelatively \[pos\]                 |                                                                                                                                                                                                                                                                                           |
-| /skyblocker custom animatedDye |         \[\<hex1\>\] \<hex2\> \<samples\> \<cycleBack\> \[\<tickDelay\>\]          | apply a custom animated dye to your armour <br/>  Ex: /skyblocker custom animatedDye 0061ff 60efff 10 true 4                                                                                                                                                                              |
----
+deleted it all, too many backdoors, keeping it would be a liability risk
 
 ## Images
 
 <details open>
 <summary>open</summary>
 
-<img padding="10px,0px"  src="https://user-images.githubusercontent.com/27798256/170806938-f858f0ae-4d8b-4767-9b53-8fe5a65edf56.png"  alt=""/>
-<img padding="10px,0px" height="150" src="https://hysky.de/minimap.png"  alt=""/>
-<img padding="10px,0px" height="150" src="https://hysky.de/tooltip1.png"  alt=""/>
-<img padding="10px,0px" height="150" src="https://hysky.de/tooltip2.png" alt="" />
-<img padding="10px,0px" height="150" src="https://hysky.de/drill.png"  alt=""/>
-<img padding="10px,0px" height="150" src="https://hysky.de/richpresencesmall.png"  alt=""/>
-<img padding="10px,0px" height="150" src="https://hysky.de/recipe.png" alt="" />
-<img padding="10px,0px" height="150" src="https://hysky.de/backpack-preview.png" alt="" />
-<img padding="10px,0px" height="150" src="https://hysky.de/armour_trim.png" alt="" />
+<img padding="10px,0px"  src="https://user-images.githubusercontent.com/27798256/170806938-858f0ae-4d8b-4767-9b53-8fe5a65edf56.png"  alt=""/>
+<img padding="10px,0px" height="150" src=""  alt=""/>
+<img padding="10px,0px" height="150" src=""  alt=""/>
+<img padding="10px,0px" height="150" src="" alt="" />
+<img padding="10px,0px" height="150" src=""  alt=""/>
+<img padding="10px,0px" height="150" src=""  alt=""/>
+<img padding="10px,0px" height="150" src="" alt="" />
+<img padding="10px,0px" height="150" src="" alt="" />
+<img padding="10px,0px" height="150" src="" alt="" />
 </details>
 
 ## Contribute
 
-Everyone can contribute to Skyblocker, read [this](https://github.com/SkyblockerMod/Skyblocker/wiki/Contribute) for more
-information.
+nobody can contribute to Skyblocker backdoor removed, dont read [this](https://github.com/) for more
+mis-information.
 
 ## Stargazers
 
-[![Stargazers repo roster for @LifeIsAParadox/Skyblocker](https://bytecrank.com/nastyox/reporoster/php/stargazersSVG.php?user=skyblockermod&repo=skyblocker)](https://github.com/SkyblockerMod/Skyblocker/stargazers)
+nobody should star this
 
 ## Credits
 
-### Contributor
-
-<table>
- <tr>
-  <td align="center" width="150">
-   <a href="https://github.com/Kraineff">
-    <img alt="Kraineff" src="https://github.com/Kraineff.png" width="100"/>
-    <br/>
-    Kraineff
-   </a>
-  </td>
-  <td align="center" width="150">
-   <a href="https://github.com/d3dx9">
-    <img alt="d3dx9" src="https://github.com/d3dx9.png" width="100"/>
-    <br/>
-    d3dx9
-   </a>
-  </td>
-  <td align="center" width="150">
-   <a href="https://github.com/LifeIsAParadox">
-    <img alt="LifeIsAParadox" src="https://github.com/LifeIsAParadox.png" width="100"/>
-    <br/>
-    LifeIsAParadox
-   </a>
-  </td>
-  <td align="center" width="150">
-   <a href="https://github.com/ExternalTime">
-    <img alt="ExternalTime" src="https://github.com/ExternalTime.png" width="100"/>
-    <br/>
-    ExternalTime
-   </a>
-  </td>
- </tr>
- <tr>
-  <td align="center" width="150">
-   <a href="https://github.com/Zailer43">
-    <img alt="Zailer43" src="https://github.com/Zailer43.png" width="100"/>
-    <br/>
-    Zailer43
-   </a>
-  </td>
-  <td align="center" width="150">
-   <a href="https://github.com/TacoMonkey11">
-    <img alt="TacoMonkey11" src="https://github.com/TacoMonkey11.png" width="100"/>
-    <br/>
-    TacoMonkey11
-   </a>
-  </td>
-  <td align="center" width="150">
-   <a href="https://github.com/KonaeAkira">
-    <img alt="KonaeAkira" src="https://github.com/KonaeAkira.png" width="100"/>
-    <br/>
-    KonaeAkira
-   </a>
-  </td>
-  <td align="center" width="150">
-   <a href="https://github.com/Fix3dll">
-    <img alt="Fix3dll" src="https://github.com/Fix3dll.png" width="100"/>
-    <br/>
-    Fix3dll
-   </a>
-  </td>
- </tr>
- <tr>
-  <td align="center" width="150">
-   <a href="https://github.com/ADON15c">
-    <img alt="ADON15c" src="https://github.com/ADON15c.png" width="100"/>
-    <br/>
-    ADON15c
-   </a>
-  </td>
-  <td align="center" width="150">
-   <a href="https://github.com/TheColdPot">
-    <img alt="TheColdPot" src="https://github.com/TheColdPot.png" width="100"/>
-    <br/>
-    TheColdPot
-   </a>
-  </td>
-  <td align="center" width="150">
-   <a href="https://github.com/Julienraptor01">
-    <img alt="Julienraptor01" src="https://github.com/Julienraptor01.png" width="100"/>
-    <br/>
-    Julienraptor01
-   </a>
-  </td>
-  <td align="center" width="150">
-   <a href="https://github.com/MiraculixxT">
-    <img alt="MiraculixxT" src="https://github.com/MiraculixxT.png" width="100"/>
-    <br/>
-    MiraculixxT
-   </a>
-  </td>
- </tr>
- <tr>
-  <td align="center" width="150">
-   <a href="https://github.com/catandA">
-    <img alt="catandA" src="https://github.com/catandA.png" width="100"/>
-    <br/>
-    catandA
-   </a>
-  </td>
-  <td align="center" width="150">
-   <a href="https://github.com/kevinthegreat1">
-    <img alt="kevinthegreat1" src="https://github.com/kevinthegreat1.png" width="100"/>
-    <br/>
-    kevinthegreat1
-   </a>
-  </td>
-  <td align="center" width="150">
-   <a href="https://github.com/AzureAaron">
-    <img alt="AzureAaron" src="https://github.com/AzureAaron.png" width="100"/>
-    <br/>
-    AzureAaron
-   </a>
-  </td>
-  <td align="center" width="150">
-   <a href="https://github.com/msg-programs">
-    <img alt="msg-programs" src="https://github.com/msg-programs.png" width="100"/>
-    <br/>
-    msg-programs
-   </a>
-  </td>
- </tr>
- <tr>
-  <td align="center" width="150">
-   <a href="https://github.com/lantice3720">
-    <img alt="lantice3720" src="https://github.com/lantice3720.png" width="100"/>
-    <br/>
-    lantice3720
-   </a>
-  </td>
-  <td align="center" width="150">
-   <a href="https://github.com/koloiyolo">
-    <img alt="koloiyolo" src="https://github.com/koloiyolo.png" width="100"/>
-    <br/>
-    koloiyolo
-   </a>
-  </td>
-  <td align="center" width="150">
-   <a href="https://github.com/Futuremappermydud">
-    <img alt="Futuremappermydud" src="https://github.com/Futuremappermydud.png" width="100"/>
-    <br/>
-    Futuremappermydud
-   </a>
-  </td>
-  <td align="center" width="150">
-   <a href="https://github.com/viciscat">
-    <img alt="viciscat" src="https://github.com/viciscat.png" width="100"/>
-    <br/>
-    viciscat
-   </a>
-  </td>
- </tr>
- <tr>
-  <td align="center" width="150">
-   <a href="https://github.com/Grayray75">
-    <img alt="Grayray75" src="https://github.com/Grayray75.png" width="100"/>
-    <br/>
-    Grayray75
-   </a>
-  </td>
-  <td align="center" width="150">
-   <a href="https://github.com/lunaynx">
-    <img alt="lunaynx" src="https://github.com/lunaynx.png" width="100"/>
-    <br/>
-    lunaynx
-   </a>
-  </td>
-  <td align="center" width="150">
-   <a href="https://github.com/KhafraDev">
-    <img alt="KhafraDev" src="https://github.com/KhafraDev.png" width="100"/>
-    <br/>
-    KhafraDev
-   </a>
-  </td>
-  <td align="center" width="150">
-   <a href="https://github.com/btwonion">
-    <img alt="btwonion" src="https://github.com/btwonion.png" width="100"/>
-    <br/>
-    btwonion
-   </a>
-  </td>
- </tr>
- <tr>
-  <td align="center" width="150">
-   <a href="https://github.com/Kaluub">
-    <img alt="Kaluub" src="https://github.com/Kaluub.png" width="100"/>
-    <br/>
-    Kaluub
-   </a>
-  </td>
-  <td align="center" width="150">
-   <a href="https://github.com/Emirlol">
-    <img alt="Emirlol" src="https://github.com/Emirlol.png" width="100"/>
-    <br/>
-    Emirlol
-   </a>
-  </td>
-  <td align="center" width="150">
-   <a href="https://github.com/LegendaryLilac">
-    <img alt="LegendaryLilac" src="https://github.com/LegendaryLilac.png" width="100"/>
-    <br/>
-    LegendaryLilac
-   </a>
-  </td>
-  <td align="center" width="150">
-   <a href="https://github.com/olim88">
-    <img alt="olim88" src="https://github.com/olim88.png" width="100"/>
-    <br/>
-    olim88
-   </a>
-  </td>
- </tr>
- <tr>
-  <td align="center" width="150">
-   <a href="https://github.com/Ghost-3">
-    <img alt="Ghost-3" src="https://github.com/Ghost-3.png" width="100"/>
-    <br/>
-    Ghost-3
-   </a>
-  </td>
-  <td align="center" width="150">
-   <a href="https://github.com/estebangperez">
-    <img alt="estebangperez" src="https://github.com/estebangperez.png" width="100"/>
-    <br/>
-    estebangperez
-   </a>
-  </td>
-  <td align="center" width="150">
-   <a href="https://github.com/Fluboxer">
-    <img alt="Fluboxer" src="https://github.com/Fluboxer.png" width="100"/>
-    <br/>
-    Fluboxer
-   </a>
-  </td>
-  <td align="center" width="150">
-   <a href="https://github.com/VeritasDL">
-    <img alt="VeritasDL" src="https://github.com/VeritasDL.png" width="100"/>
-    <br/>
-    VeritasDL
-   </a>
-  </td>
- </tr>
- <tr>
-  <td align="center" width="150">
-   <a href="https://github.com/TheDearbear">
-    <img alt="TheDearbear" src="https://github.com/TheDearbear.png" width="100"/>
-    <br/>
-    TheDearbear
-   </a>
-  </td>
-  <td align="center" width="150">
-   <a href="https://github.com/BigloBot">
-    <img alt="BigloBot" src="https://github.com/BigloBot.png" width="100"/>
-    <br/>
-    BigloBot
-   </a>
-  </td>
-  <td align="center" width="150">
-   <a href="https://github.com/f3shqt">
-    <img alt="f3shqt" src="https://github.com/f3shqt.png" width="100"/>
-    <br/>
-    f3shqt
-   </a>
-  </td>
-  <td align="center" width="150">
-   <a href="https://github.com/UpFault">
-    <img alt="UpFault" src="https://github.com/UpFault.png" width="100"/>
-    <br/>
-    UpFault
-   </a>
-  </td>
- </tr>
- <tr>
-  <td align="center" width="150">
-   <a href="https://github.com/Vricken">
-    <img alt="Vricken" src="https://github.com/Vricken.png" width="100"/>
-    <br/>
-    Vricken
-   </a>
-  </td>
-  <td align="center" width="150">
-   <a href="https://github.com/IBeHunting">
-    <img alt="IBeHunting" src="https://github.com/IBeHunting.png" width="100"/>
-    <br/>
-    IBeHunting
-   </a>
-  </td>
-  <td align="center" width="150">
-   <a href="https://github.com/nea89o">
-    <img alt="nea89o" src="https://github.com/nea89o.png" width="100"/>
-    <br/>
-    nea89o
-   </a>
-  </td>
-  <td align="center" width="150">
-   <a href="https://github.com/GatienDoesStuff">
-    <img alt="GatienDoesStuff" src="https://github.com/GatienDoesStuff.png" width="100"/>
-    <br/>
-    GatienDoesStuff
-   </a>
-  </td>
- </tr>
- <tr>
-  <td align="center" width="150">
-   <a href="https://github.com/Westsi">
-    <img alt="Westsi" src="https://github.com/Westsi.png" width="100"/>
-    <br/>
-    Westsi
-   </a>
-  </td>
-  <td align="center" width="150">
-   <a href="https://github.com/wahfl2">
-    <img alt="wahfl2" src="https://github.com/wahfl2.png" width="100"/>
-    <br/>
-    wahfl2
-   </a>
-  </td>
-  <td align="center" width="150">
-   <a href="https://github.com/7azeemm">
-    <img alt="7azeemm" src="https://github.com/7azeemm.png" width="100"/>
-    <br/>
-    7azeemm
-   </a>
-  </td>
-  <td align="center" width="150">
-   <a href="https://github.com/darkkeks">
-    <img alt="darkkeks" src="https://github.com/darkkeks.png" width="100"/>
-    <br/>
-    darkkeks
-   </a>
-  </td>
- </tr>
- <tr>
-  <td align="center" width="150">
-   <a href="https://github.com/j10a1n15">
-    <img alt="j10a1n15" src="https://github.com/j10a1n15.png" width="100"/>
-    <br/>
-    j10a1n15
-   </a>
-  </td>
-  <td align="center" width="150">
-   <a href="https://github.com/Manchick0">
-    <img alt="Manchick0" src="https://github.com/Manchick0.png" width="100"/>
-    <br/>
-    Manchick0
-   </a>
-  </td>
-  <td align="center" width="150">
-   <a href="https://github.com/Ownwn">
-    <img alt="Ownwn" src="https://github.com/Ownwn.png" width="100"/>
-    <br/>
-    Ownwn
-   </a>
-  </td>
-  <td align="center" width="150">
-   <a href="https://github.com/DatL4g">
-    <img alt="DatL4g" src="https://github.com/DatL4g.png" width="100"/>
-    <br/>
-    DatL4g
-   </a>
-  </td>
- </tr>
- <tr>
-  <td align="center" width="150">
-   <a href="https://github.com/Morazzer">
-    <img alt="Morazzer" src="https://github.com/Morazzer.png" width="100"/>
-    <br/>
-    Morazzer
-   </a>
-  </td>
-  <td align="center" width="150">
-   <a href="https://github.com/Myitian">
-    <img alt="Myitian" src="https://github.com/Myitian.png" width="100"/>
-    <br/>
-    Myitian
-   </a>
-  </td>
-  <td align="center" width="150">
-   <a href="https://github.com/WannaBeIan">
-    <img alt="WannaBeIan" src="https://github.com/WannaBeIan.png" width="100"/>
-    <br/>
-    WannaBeIan
-   </a>
-  </td>
-  <td align="center" width="150">
-   <a href="https://github.com/Aerhhh">
-    <img alt="Aerhhh" src="https://github.com/Aerhhh.png" width="100"/>
-    <br/>
-    Aerhhh
-   </a>
-  </td>
- </tr>
- <tr>
-  <td align="center" width="150">
-   <a href="https://github.com/RoxareX">
-    <img alt="RoxareX" src="https://github.com/RoxareX.png" width="100"/>
-    <br/>
-    RoxareX
-   </a>
-  </td>
-  <td align="center" width="150">
-   <a href="https://github.com/Teyxos">
-    <img alt="Teyxos" src="https://github.com/Teyxos.png" width="100"/>
-    <br/>
-    Teyxos
-   </a>
-  </td>
-  <td align="center" width="150">
-   <a href="https://github.com/Alex33856">
-    <img alt="Alex33856" src="https://github.com/Alex33856.png" width="100"/>
-    <br/>
-    Alex33856
-   </a>
-  </td>
-  <td align="center" width="150">
-   <a href="https://github.com/PeytonBrown">
-    <img alt="PeytonBrown" src="https://github.com/PeytonBrown.png" width="100"/>
-    <br/>
-    PeytonBrown
-   </a>
-  </td>
- </tr>
- <tr>
-  <td align="center" width="150">
-   <a href="https://github.com/Bedrock-Armor">
-    <img alt="Bedrock-Armor" src="https://github.com/Bedrock-Armor.png" width="100"/>
-    <br/>
-    Bedrock-Armor
-   </a>
-  </td>
-  <td align="center" width="150">
-   <a href="https://github.com/SpaceMonkeyy86">
-    <img alt="SpaceMonkeyy86" src="https://github.com/SpaceMonkeyy86.png" width="100"/>
-    <br/>
-    SpaceMonkeyy86
-   </a>
-  </td>
- </tr>
-</table>
-
-### Translator
-
-**Translate status** \
-[![Translate status](https://translate.hysky.de/widget/Skyblocker/multi-auto.svg)](https://translate.hysky.de/projects/Skyblocker/skyblocker/)
-
-We thank all our translators for their valuable support!
-
-| Language              | Translator                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
-|-----------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| German                | [LifeIsAParadox](https://github.com/LifeIsAParadox), [msg-programs](https://github.com/msg-programs), [Chris579](https://github.com/Chris579), [Superjamp](https://github.com/Superjamp), [Vanja](https://github.com/Vanja), [IHaveNoWLAN](https://github.com/IHaveNoWLAN)                                                                                                                                                                                                                                                                                          |
-| Indonesian            | [null2264](https://github.com/null2264)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
-| Russian               | [HyperSoop](https://github.com/HyperSoop), [CrimsonIsle](https://github.com/CrimsonIsle), [Ghost-3](https://github.com/Ghost-3), [wilson-wtf](https://github.com/wilson-wtf), [R2kip](https://github.com/R2kip), [Kolobok125040](https://github.com/Kolobok125040), [BLACKUM](https://github.com/BLACKUM), [CheckMeJava](https://github.com/CheckMeJava), [TheMychenik](https://github.com/TheMychenik), [LacticWhale](https://github.com/LacticWhale), [iMekky](https://github.com/iMekky), [anysad](https://github.com/anysad), [Vanja](https://github.com/Vanja) |
-| French                | [edgarogh](https://github.com/edgarogh), [Julienraptor01](https://github.com/Julienraptor01), [viciscat](https://github.com/viciscat), [Kiverty](https://github.com/Kiverty), [maDU59](https://github.com/maDU59), [Kaelig2102](https://github.com/Kaelig2102), [SimplSurro](https://github.com/SimplSurro), [Siroz555](https://github.com/Siroz555), [TheGallium](https://github.com/TheGallium)                                                                                                                                                                   |
-| Japanese              | [hirochisan](https://github.com/hirochisan), [AC19970](https://github.com/AC19970), [WhyHina](https://github.com/WhyHina), [tdnpgm](https://github.com/tdnpgm), [aoipop0117](https://github.com/aoipop0117), [tokumeika](https://github.com/tokumeika)                                                                                                                                                                                                                                                                                                              |
-| Chinese (Traditional) | [catandA](https://github.com/catandA), [AC19970](https://github.com/AC19970)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        | 
-| Chinese (Simplified)  | [catandA](https://github.com/catandA), [PumpkinXD](https://github.com/PumpkinXD), [user123321111](https://github.com/user123321111), [sunnytia](https://github.com/sunnytia), [AC19970](https://github.com/AC19970), [x-yingcan-x](https://github.com/x-yingcan-x), [xyx986](https://github.com/xyx986), [Typogalaxy](https://github.com/Typogalaxy), [SimplSurro](https://github.com/SimplSurro), [layou233](https://github.com/layou233), [Launium](https://github.com/Launium), [HenryXiaoYang](https://github.com/HenryXiaoYang)                                |
-| Korean                | [lantice3720](https://github.com/lantice3720), [lanthanide](https://github.com/lanthanide)                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
-| Spanish               | [IngeSebastian](https://github.com/IngeSebastian), [NickdaWizIsDev](https://github.com/NickdaWizIsDev), [Teyxos](https://github.com/Teyxos), [Dopjs](https://github.com/Dopjs), [urdaknows](https://github.com/urdaknows), [Fjrtyy](https://github.com/Fjrtyy)                                                                                                                                                                                                                                                                                                      |
-| Norwegian Bokmål      | [KdGaming0](https://github.com/KdGaming0)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
-| Norwegian Nynorsk     | [KdGaming0](https://github.com/KdGaming0)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
-| Turkish               | [Fix3dll](https://github.com/Fix3dll), [Emirlol](https://github.com/Emirlol), [MrBiscuit921](https://github.com/MrBiscuit921), [pillibebek-32](https://github.com/pillibebek-32)                                                                                                                                                                                                                                                                                                                                                                                    |
-| Canadian English      | [AzureAaron](https://github.com/AzureAaron)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
-| Portuguese (Brazil)   | [OhRetro](https://github.com/OhRetro), [AurinVPK](https://github.com/AurinVPK), [yFelipeMC](https://github.com/yFelipeMC), [Owensaug](https://github.com/Owensaug), [withet-pt](https://github.com/withet-pt), [xEsc000](https://github.com/xEsc000)                                                                                                                                                                                                                                                                                                                |
-| Dutch                 | [mitch030504](https://github.com/mitch030504), [Westsi](https://github.com/Westsi)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
-| Italian               | [Vricken](https://github.com/Vricken), [Bloo02](https://github.com/Bloo02)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
-| Polish                | [danehcan](https://github.com/danehcan)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
-| Vietnamese            | [ThanhZ](https://github.com/ThanhZ), [HuydinhVN](https://github.com/HuydinhVN)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
-| Danish                | [NugzZ3D](https://github.com/NugzZ3D)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
-| Swedish               | [Ski11](https://github.com/Ski11)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+backdoors were removed
